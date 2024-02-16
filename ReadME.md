@@ -7,7 +7,7 @@ Resposive education website with multipages build with HTML, CSS & JS and we use
 
 ## Demo
 
-
+https://andrew801168.github.io/education-school/
 
 
 # Screenshots
